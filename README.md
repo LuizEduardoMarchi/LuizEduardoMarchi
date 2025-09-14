@@ -62,6 +62,8 @@ O objetivo deste perfil no GitHub é compartilhar meus projetos práticos de pro
     />
 </p>
 
+---
+## **`Commitis Activity`**
 <div>
   <img src="https://raw.githubusercontent.com/LuizEduardoMarchi/LuizEduardoMarchi/output/snake.svg" width = 1500 alt="Snake animation" />
 </div>
