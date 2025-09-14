@@ -61,9 +61,4 @@ O objetivo deste perfil no GitHub é compartilhar meus projetos práticos de pro
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoMarchi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
     />
 </p>
-
----
-## **`Commitis Activity`**
-<div>
-  <img src="https://raw.githubusercontent.com/LuizEduardoMarchi/LuizEduardoMarchi/output/snake.svg" width = 1500 alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/LuizEduardoMarchi/LuizEduardoMarchi/output/snake.svg" width = 1500 alt="Snake animation" />
