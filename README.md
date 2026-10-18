@@ -38,22 +38,17 @@ O objetivo deste perfil no GitHub é compartilhar meus projetos práticos de pro
 
 <p align="center">
     <img
+        align="top"
         height="200"
         alt="Estatísticas do GitHub"
         src="https://github-stats-extended.vercel.app/api?username=LuizEduardoMarchi&show_icons=true&theme=codeSTACKr&locale=pt-br&bg_color=1a1b26&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20GitHub"/>
     &nbsp;&nbsp;
     <img
+        align="top"
         height="200"
         alt="Linguagens mais usadas"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizEduardoMarchi&theme=codeSTACKr&layout=compact&custom_title=Tecnologias&langs_count=6&bg_color=1a1b26&hide_border=false"/>
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizEduardoMarchi&theme=codeSTACKr&layout=donut&custom_title=Tecnologias&langs_count=6&bg_color=1a1b26&hide_border=false"/>
 </p>
-
-### 🗓️ Atividade
-<p align="center">
-    <img src="https://raw.githubusercontent.com/LuizEduardoMarchi/LuizEduardoMarchi/output/snake.svg" alt="Contribution Snake"/>
-</p>
-
-
 
 ---
 
