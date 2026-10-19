@@ -50,6 +50,11 @@ O objetivo deste perfil no GitHub é compartilhar meus projetos práticos de pro
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuizEduardoMarchi&theme=codeSTACKr&layout=donut&custom_title=Tecnologias&langs_count=6&bg_color=1a1b26&hide_border=false"/>
 </p>
 
+### 🗓️ Atividade
+<p align="center">
+    <img src="https://raw.githubusercontent.com/LuizEduardoMarchi/LuizEduardoMarchi/output/snake.svg" alt="Contribution Snake"/>
+</p>
+
 ---
 
 ### 📫 Informações para contato
